@@ -1,0 +1,21 @@
+[
+  {
+    "name": "example-project-pass",
+    "description": "MCP configuration for example-project-pass",
+    "owner": "default-owner@example.com",
+    "versions": [
+      {
+        "version": "1.0.0",
+        "platforms": [
+          {
+            "os": "linux",
+            "arch": "amd64",
+            "url": "http://localhost:8082/artifactory/example-repo-local/example-project-pass-v1.0.0.tar.gz",
+            "sha256": "0cc9d8b92476361beb61f289d86811cc6594df030d8ef43c62e7bc11df394bf2",
+            "bin": "example-project-pass/bin/mcp-info"
+          }
+        ]
+      }
+    ]
+  }
+]
