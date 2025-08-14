@@ -10,8 +10,8 @@
           {
             "os": "linux",
             "arch": "amd64",
-            "url": "http://localhost:8082/artifactory/example-repo-local/example-project-pass-v1.0.0.tar.gz",
-            "sha256": "0cc9d8b92476361beb61f289d86811cc6594df030d8ef43c62e7bc11df394bf2",
+            "url": "http://localhost:8082/artifactory/generic-local/example-project-pass-v1.0.0.tar.gz",
+            "sha256": "8eebfbd3cc16a048f9271c6dda3635367405723ba32b1b81af58ad63f9dac5d9",
             "bin": "example-project-pass/bin/mcp-info"
           }
         ]
